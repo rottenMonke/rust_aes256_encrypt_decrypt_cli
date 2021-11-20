@@ -1,4 +1,4 @@
-# rust_aes258_encrypt_decrypt_cli
+# rust_aes256_encrypt_decrypt_cli
 Simple cli tool for encrypting/decrypting a file
 
 It uses Aes256GcmSiv for decryption/encryption and blake3 for creating a hash out of user secret (256 bit) for the cipher key
